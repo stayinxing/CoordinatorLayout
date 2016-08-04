@@ -1,0 +1,1 @@
+package com.example.administrator.myapplication;import android.app.Fragment;/** * Created by Administrator on 2016/7/25 0025. */public class BaseFragment extends Fragment{}
